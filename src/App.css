@@ -1,11 +1,4 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -21,14 +14,20 @@
 .primaryBtn {
   background-color: #F0b90B;
   color: black;
+  color: #191d26
 }
 .primaryBtn:hover {
   background-color: #f8d151;
-  color: black;
+  color: #161c24;
 }
 .bg-primary {
   background-color: #F0b90B !important;
 }
+.graph {
+  height: 500px;
+  background-image: url('./images/graph.png');
+}
+
 
 @keyframes App-logo-spin {
   from {

@@ -10,7 +10,8 @@ import NavItem from './navItem';
 const styles = {
     navbar: {
         height: "70px",
-        backgroundColor: "#12161c"
+        backgroundColor: "#12161c",
+        borderBottom: "4px solid #161a21"
     },
     logo: {
         width: "170px"
