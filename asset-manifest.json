@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gurudanito001.github.io/binance-clone/static/css/main.1590c6c3.chunk.css",
+    "main.js": "/gurudanito001.github.io/binance-clone/static/js/main.3214083c.chunk.js",
+    "main.js.map": "/gurudanito001.github.io/binance-clone/static/js/main.3214083c.chunk.js.map",
+    "runtime-main.js": "/gurudanito001.github.io/binance-clone/static/js/runtime-main.a1c8ac97.js",
+    "runtime-main.js.map": "/gurudanito001.github.io/binance-clone/static/js/runtime-main.a1c8ac97.js.map",
+    "static/css/2.6f8a36da.chunk.css": "/gurudanito001.github.io/binance-clone/static/css/2.6f8a36da.chunk.css",
+    "static/js/2.974b6f77.chunk.js": "/gurudanito001.github.io/binance-clone/static/js/2.974b6f77.chunk.js",
+    "static/js/2.974b6f77.chunk.js.map": "/gurudanito001.github.io/binance-clone/static/js/2.974b6f77.chunk.js.map",
+    "index.html": "/gurudanito001.github.io/binance-clone/index.html",
+    "static/css/2.6f8a36da.chunk.css.map": "/gurudanito001.github.io/binance-clone/static/css/2.6f8a36da.chunk.css.map",
+    "static/css/main.1590c6c3.chunk.css.map": "/gurudanito001.github.io/binance-clone/static/css/main.1590c6c3.chunk.css.map",
+    "static/js/2.974b6f77.chunk.js.LICENSE.txt": "/gurudanito001.github.io/binance-clone/static/js/2.974b6f77.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/gurudanito001.github.io/binance-clone/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/App.css": "/gurudanito001.github.io/binance-clone/static/media/graph.62db5ce4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1c8ac97.js",
+    "static/css/2.6f8a36da.chunk.css",
+    "static/js/2.974b6f77.chunk.js",
+    "static/css/main.1590c6c3.chunk.css",
+    "static/js/main.3214083c.chunk.js"
+  ]
+}
